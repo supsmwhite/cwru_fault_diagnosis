@@ -1,0 +1,11 @@
+CWRU processed window dataset
+========================================
+window_size: 1024
+stride: 512
+train_ratio: 0.7
+target_sampling_rate: 12000
+X_train shape: (6518, 1, 1024)
+y_train shape: (6518,)
+X_test shape : (2764, 1, 1024)
+y_test shape : (2764,)
+num_files: 40

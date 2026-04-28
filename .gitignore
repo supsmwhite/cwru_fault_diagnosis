@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+
+# Raw and generated large data
+data/raw_mat/
+data/processed/*.npz
+
+# Model checkpoints
+results/checkpoints/
+*.pt
+*.pth
+
+# Local runtime artifacts
+*.log
+.DS_Store
+Thumbs.db
