@@ -8,6 +8,7 @@ __pycache__/
 # Raw and generated large data
 data/raw_mat/
 data/processed/*.npz
+data/processed/by_load/
 
 # Model checkpoints
 results/checkpoints/

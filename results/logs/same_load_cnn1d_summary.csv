@@ -1,0 +1,5 @@
+﻿load_hp,best_test_acc,best_test_macro_f1,epochs,batch_size,learning_rate,weight_decay,train_samples,test_samples,elapsed_seconds,confusion_matrix_path
+0,0.9984939759036144,0.9985713556814122,10,64,0.001,0.0001,1568,664,3.446810722351074,E:\cwru_fault_diagnosis\results\figures\same_load_confusion_matrices\cnn1d_same_load_load_0_confusion_matrix.png
+1,1.0,1.0,10,64,0.001,0.0001,1649,699,2.670461416244507,E:\cwru_fault_diagnosis\results\figures\same_load_confusion_matrices\cnn1d_same_load_load_1_confusion_matrix.png
+2,1.0,1.0,10,64,0.001,0.0001,1649,700,2.6208221912384033,E:\cwru_fault_diagnosis\results\figures\same_load_confusion_matrices\cnn1d_same_load_load_2_confusion_matrix.png
+3,1.0,1.0,10,64,0.001,0.0001,1652,701,2.6642725467681885,E:\cwru_fault_diagnosis\results\figures\same_load_confusion_matrices\cnn1d_same_load_load_3_confusion_matrix.png
